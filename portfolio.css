@@ -1,0 +1,52 @@
+body {
+  position: absolute;
+}
+li {
+  list-style: none;
+  font-size: 20px;
+  
+}
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 50px;
+  padding-left: 40px;
+}
+
+a:link {
+  color: aqua;
+}
+
+.coming {
+  display: block;
+  margin-left: 360px;
+  margin-right: 0;
+  border-style: solid;
+  border-color: aquamarine;
+  border-width: 4px;
+  opacity: .5;
+  object-fit: cover;
+  max-width: 35%;
+  height: auto;
+  
+}
+
+.coming:hover {
+  opacity: 1;
+}
+
+.container {
+  position: relative;
+}
+
+.bottomright {
+  position: absolute;
+  bottom: 15px;
+  right: 400px;
+  font-size: 18px;
+  background-color: aqua;
+  width: 110px;
+  height: 40px;
+  padding-top: 8px;
+  padding-left: 8px;
+}
