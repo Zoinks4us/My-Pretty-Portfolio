@@ -10,7 +10,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
- All you need to do to access this webpage is go to the url: 
+ All you need to do to access this webpage is go to the url: https://zoinks4us.github.io/My-Pretty-Portfolio/
 
 
 ![image](https://github.com/Zoinks4us/My-Pretty-Portfolio/assets/132844654/124c4861-4412-44c6-b60c-fd1f98815dc1)
