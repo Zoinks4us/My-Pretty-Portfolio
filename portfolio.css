@@ -13,6 +13,22 @@ h1 {
   padding-left: 40px;
 }
 
+.vl {
+  border-right: 6px solid rgb(20, 42, 68);
+  height: 200px;
+}
+
+.bl {
+  border-right: 6px solid rgb(20, 42, 68);
+  height: 400px;
+}
+
+.cl {
+  border-right: 6px solid rgb(20, 42, 68);
+  height: 100px;
+}
+
+
 a:link {
   color: aqua;
 }
